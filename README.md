@@ -31,3 +31,5 @@ https://drive.google.com/drive/folders/1Kq5Eq2wMYmAZWtA6EXZG3hvUjDOj1PuF?usp=sha
 2.  **Descargue** los dos archivos.
 3.  **Descomprima** el archivo `ML_Plots.zip`.
 4.  **Ejecute:** Coloque `script_TFM.R` (presente en el actual repositorio de GitHub) y `entorno_TFM_TODO.RData` en la misma carpeta raíz y abra el script en RStudio para explorar los resultados.
+
+***Nota**: Recuerde establecer su propio directorio de trabajo, el cual se encuentre en el mismo lugar que el script y el entorno proporcionados.
