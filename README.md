@@ -1,6 +1,7 @@
 # TFM: Análisis de firmas moleculares para la estratificación y la predicción en la enfermedad de Parkinson.
 
 **Autor:** Santos Antequera Fernández
+**Tutor:** Jordi Martorell Marugán 
 **Trabajo de Fin de Máster:** Máster en Bioinformática, Universidad Europea de Madrid
 
 ---
