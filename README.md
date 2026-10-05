@@ -3,6 +3,7 @@
 **Author:** Santos Antequera Fernández  
 **Advisor:** Jordi Martorell Marugán  
 **Master's Thesis:** Master's in Bioinformatics, Universidad Europea de Madrid  
+**Institutional Repository (Titula):** [Full Thesis Manuscript](https://titula.universidadeuropea.com/handle/20.500.12880/14924)
 
 ---
 
